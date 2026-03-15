@@ -1,5 +1,5 @@
 
-  # Black star 
+  # Black star (Copy)
 
   This is a code bundle for Black star (Copy). The original project is available at https://www.figma.com/design/oD4VhvJF2tMrWzIcMidQwL/Black-star--Copy-.
 
